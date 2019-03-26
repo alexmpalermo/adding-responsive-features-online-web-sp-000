@@ -52,6 +52,16 @@
     margin-left: 0;
     float: none;
   }
+  
+  .border-right {
+    border: 0;
+  }
+  
+  #details div {
+    height: auto;
+    padding: 20px;
+  }
 }
 
+@media only screen and 
 
